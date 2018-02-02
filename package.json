@@ -1,0 +1,32 @@
+{
+  "name": "hgraph-vue",
+  "version": "1.0.0",
+  "description": "Vue.js wrapper for the Open Source Health Graph Project (hgraph.org)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onexdata/hgraph-vue.git"
+  },
+  "keywords": [
+    "health",
+    "graph",
+    "care",
+    "d3",
+    "vue",
+    "hl7",
+    "fhir",
+    "records"
+  ],
+  "author": "Nick Steele <njsteele@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/onexdata/hgraph-vue/issues"
+  },
+  "homepage": "https://github.com/onexdata/hgraph-vue#readme",
+  "dependencies": {
+    "hgraph": "^1.0.1"
+  }
+}
